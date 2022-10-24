@@ -39156,9 +39156,22 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -50px;
   }
 }
-
-
-
+@media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-top: 20px;
+    margin-bottom: initial;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-menu-1 {
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin-top: -50px;
+  }
+}
  .u-footer {
   background-image: none;
 }
