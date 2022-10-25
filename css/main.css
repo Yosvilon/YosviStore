@@ -445,7 +445,7 @@ button.full-width, .button.full-width {
 	background: #ff94bb;
 }
 .button.blue {
-	background: #72bbf0;
+	background: #0026ff;
 }
 .button.blue:hover {
 	background: #5bb0ee;
@@ -501,11 +501,11 @@ button.full-width, .button.full-width {
 	color: #fff;
 }
 .button.stroke.blue {
-	border-color: #72bbf0;
+	border-color: #1673ff;
 	color: #72bbf0;
 }
 .button.stroke.blue:hover {
-	background: #72bbf0 !important;
+	background: #3fa9ff !important;
 	color: #fff;
 }
 .button.stroke.black {
@@ -593,8 +593,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #758c36;
 }
 .info {
-	background-color: #d7ecfb;
-	color: #4a95cc;
+	background-color: #aac8ff;
+	color: #008cff;
 }
 .notice {
 	background-color: #fff099;
